@@ -1,0 +1,19 @@
+# virtual environment
+venv/
+
+# data
+data/raw/
+data/processed/
+
+# trained models
+saved_model/
+results/
+logs/
+
+# python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
