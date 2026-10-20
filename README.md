@@ -16,7 +16,7 @@ The model learns to correct grammatical mistakes in English sentences and output
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 grammar_error_detector/
@@ -36,16 +36,16 @@ grammar_error_detector/
 
 ---
 
-## ⚙️ Setup
+## Setup
 
-### 1️⃣ Create virtual environment
+### 1️Create virtual environment
 
 ```bash
 python -m venv venv
 venv\Scripts\activate
 ```
 
-### 2️⃣ Install dependencies
+### 2️ Install dependencies
 
 ```bash
 pip install -r requirements.txt
